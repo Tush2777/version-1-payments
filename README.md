@@ -62,6 +62,7 @@ npm run dev
 
 ### Frontend Setup
 
+
 ```bash
 # Navigate to frontend directory
 cd frontend
